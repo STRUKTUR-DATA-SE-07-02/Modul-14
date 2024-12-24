@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735045790 source:c:\c++\p14\unguided 1\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
