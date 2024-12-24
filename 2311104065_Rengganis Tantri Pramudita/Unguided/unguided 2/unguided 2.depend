@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735046800 source:c:\c++\p14\unguided 2\main.cpp
+	<iostream>
+	<vector>
+
